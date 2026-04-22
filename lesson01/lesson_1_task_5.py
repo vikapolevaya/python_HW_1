@@ -1,15 +1,15 @@
-def num(let):
-    print(let, end='')
+def number(num):
+    print(num, end='')
 
 
-num(8)
-num(8)
-num(0)
-num(0)
-num(5)
-num(5)
-num(5)
-num(3)
-num(5)
-num(3)
-num(5)
+number(8)
+number(8)
+number(0)
+number(0)
+number(5)
+number(5)
+number(5)
+number(3)
+number(5)
+number(3)
+number(5)
